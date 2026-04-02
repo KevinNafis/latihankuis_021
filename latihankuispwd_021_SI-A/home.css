@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+}
+
+.welcome {
+  color: red;
+  font-size: 15px;
+}
+.manfaat {
+  color: blue;
+  font-size: 15px;
+}
+.jenis {
+  color: purple;
+  font-size: 15px;
+}
